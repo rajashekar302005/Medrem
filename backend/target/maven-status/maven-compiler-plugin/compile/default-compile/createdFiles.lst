@@ -1,0 +1,14 @@
+com\example\medrem\dto\MedicineRequest.class
+com\example\medrem\dto\LogActionRequest.class
+com\example\medrem\config\CorsConfig.class
+com\example\medrem\entity\AdherenceLog.class
+com\example\medrem\service\AdherenceService.class
+com\example\medrem\dto\AdherenceLogResponse.class
+com\example\medrem\controller\MedicineController.class
+com\example\medrem\security\JwtService.class
+com\example\medrem\dto\DashboardSummary.class
+com\example\medrem\dto\MedicineResponse.class
+com\example\medrem\controller\AdherenceController.class
+com\example\medrem\entity\LogStatus.class
+com\example\medrem\dto\MedicineAdherenceSummary.class
+com\example\medrem\MedRemApplication.class
